@@ -1,4 +1,9 @@
 PERSONAL FINANCE TRACKER AND BUDGET PLANNER
+
+
+
+
+
 Problem Statement
 In today’s fast-paced world, many individuals find it challenging to manage their personal finances effectively. Without structured budgeting skills or clear tracking mechanisms, expenses often spiral out of control. Impulsive spending habits, neglected savings, and lack of visibility into where money is being spent can lead to financial stress and instability. Many people, including students, working professionals, freelancers, and families, struggle to maintain a balance between spending on needs, wants, and savings. The absence of a proper financial plan often results in overspending in categories like food, entertainment, and shopping, while crucial areas like savings or essential expenses are overlooked.
 
